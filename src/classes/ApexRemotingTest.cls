@@ -1,5 +1,5 @@
 global with sharing class ApexRemotingTest {
-// 0.30
+// 0.40
     public String caseNumber { get; set; }
     public static Case c { get; set; }
     public ApexRemotingTest() { } // empty constructor 
